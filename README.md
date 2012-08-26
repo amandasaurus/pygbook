@@ -13,5 +13,5 @@ Aim
 
 Other ideas are welcome
 
-Progam Licensed under GPLv2
+Progam Licensed under GPLv3
 
